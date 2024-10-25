@@ -1,4 +1,4 @@
-[
+{
     {
       name: 'emkode website',
       description: 'web development',
@@ -134,4 +134,4 @@
         ]
       }
     },
-];
+}
