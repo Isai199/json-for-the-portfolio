@@ -66,7 +66,7 @@
     {
       "name": "xml",
       "description": "web development",
-      "image": "xml/xml-menu-slider.png",
+      "image": "xml/xml-menu.png",
       "allurls": {
         "title": "xml module",
         "description": "A software project, that helps the company CAO for importing xml documents extracting its information for then saving them in the dbs, and show that information in a table for the user administrator.",
@@ -79,16 +79,14 @@
         "imagesUrl": [
           "xml/xml-menu.png",
           "xml/xml-archivos.png",
-          "xml/xml-arrastrar-archivos-xml.png",
-          "xml/xml-menu-dos.png",
-          "xml/xml-menu-slider.png"
+          "xml/xml-arrastrar-archivos-xml.png"
         ]
       }
     },
     {
       "name": "segared administration",
       "description": "web development",
-      "image": "segared/tabla-usuarios-slider.png",
+      "image": "segared/tabla-usuarios.png",
       "allurls": {
         "title": "segared administration crud",
         "description": "A software project, for the segared company, basically it was a system that had an administration section with another 5 sections such as users, customers, companies, products and activity registers where the user administrator see, delete, add and update the information.",
