@@ -26,7 +26,7 @@
           "lenguage": "html, css, js",
           "tools": "vsc, github",
           "country": "mexico",
-          "company": "emkode",
+          "url-name": "emkode",
           "liveUrl": "https://www.emkode.com/?fbclid=IwY2xjawEaVEFleHRuA2FlbQIxMAABHambvVjFv9CPYU8yucI5PsCghc8stN9FyZvuSYpaAD7cxuDj9piQVO9RfA_aem_WCADCyySlCOLKyfBFdsvSA"
         },
         "imagesUrl": [
@@ -120,6 +120,7 @@
           "lenguage": "css, js, php, ts",
           "tools": "vsc, github, laragon, sql server",
           "country": "Mexico",
+          "urlName": "refactoring-a-project",
           "liveUrl": "https://github.com/Isai199/restructuration-with-TypeScript.git"
         },
         "imagesUrl": [
@@ -141,6 +142,7 @@
           "lenguage": "ts, css, html",
           "tools": "angular, github, github pages",
           "country": "Mexico",
+          "urlName": "my-portfolio",
           "liveUrl": "https://github.com/Isai199/my-porfolio.git"
         },
         "imagesUrl": [
