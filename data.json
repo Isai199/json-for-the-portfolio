@@ -119,7 +119,8 @@
           "type": "web application",
           "lenguage": "css, js, php, ts",
           "tools": "vsc, github, laragon, sql server",
-          "country": "Mexico"
+          "country": "Mexico",
+          "liveUrl": "https://github.com/Isai199/restructuration-with-TypeScript.git"
         },
         "imagesUrl": [
           "refactorizar-codigo/lista-empleados-slider.png",
@@ -139,7 +140,8 @@
           "type": "web page",
           "lenguage": "ts, css, html",
           "tools": "angular, github, github pages",
-          "country": "Mexico"
+          "country": "Mexico",
+          "liveUrl": "https://github.com/Isai199/my-porfolio.git"
         },
         "imagesUrl": [
           "portfolio/portfolio-hero.png",
